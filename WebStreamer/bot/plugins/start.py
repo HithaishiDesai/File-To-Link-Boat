@@ -24,7 +24,7 @@ ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : 🔥 𝗟𝗜𝗡𝗞 𝗕𝗢𝗧 🔗</b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://github.com/HithaishiDesai/File-To-Link-Boat/tree/MODIFIED'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸GitHub : <a href='https://GitHub.com/HithaishiDesai'>Fᴏʟʟᴏᴡ</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Hithaishidesai_605'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>"""
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Hithaishidesai_605'>HITHAISHI DESAI</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
